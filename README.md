@@ -1,2 +1,2 @@
 # comp214
- 2021 winter
+2021 winter semester
